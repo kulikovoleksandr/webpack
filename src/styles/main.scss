@@ -1,0 +1,11 @@
+$color-primary: blue;
+$color-text: white;
+$color-body-background: #333;
+body {
+  color: $color-text;
+  background-color: $color-body-background;
+}
+
+a {
+  color: $color-primary;
+}
